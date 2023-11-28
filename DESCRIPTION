@@ -1,0 +1,31 @@
+Package: rep
+Type: Package
+Title: Apufunktiota raporttiin
+Version: 0.1.4
+Author: Jarno
+Maintainer: Jarno <jarno.lonnqvist@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.2.3
+Imports: 
+    data.table,
+    DBI,
+    dplyr,
+    DT,
+    echarts4r,
+    ggplot2,
+    gplots,
+    htmlwidgets,
+    logger,
+    lubridate,
+    PerformanceAnalytics,
+    plotly,
+    priceR,
+    RSQLite,
+    stringr,
+    tibble,
+    xts,
+    zoo
